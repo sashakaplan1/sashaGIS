@@ -25,6 +25,6 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 
 # Project 3: Hot and Cold Spot Analysis of 911 calls in Portland, OR
 
-![](https://user-images.githubusercontent.com/96799772/147708429-bfec1325-149c-42b3-aa94-a46c3c4d83bb.png)
+![](https://user-images.githubusercontent.com/96799772/147708685-9562b28a-1e67-4eea-ac5e-c22d3c5d8d5a.png)
 
 
