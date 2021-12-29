@@ -33,7 +33,6 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
   <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
 </p>
 
-![](https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png)
 
 
 
