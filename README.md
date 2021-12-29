@@ -14,6 +14,14 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 
 # Project 2: Colorado Food Deserts and Obesity
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147707251-d3bb9e75-d379-49f8-91e5-9cc1ff9fe87a.png"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147707258-e7b21bc6-fa9d-4623-8049-55cb46ef29a5.png"/>
+</p>
+
 ![](https://user-images.githubusercontent.com/96799772/147707251-d3bb9e75-d379-49f8-91e5-9cc1ff9fe87a.png)
 
 ![](https://user-images.githubusercontent.com/96799772/147707258-e7b21bc6-fa9d-4623-8049-55cb46ef29a5.png)
