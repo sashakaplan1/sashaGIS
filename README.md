@@ -9,3 +9,11 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * States included in the analysis: Arizona, Colorado, Nevada, Utah, and New Mexico by census tracts
 * Simple linear regressions and multiple regressions measured at the alpha of 0.01
 * Three cluster groups identified: Cluster 1 and Cluster 2 define low risk areas for drug overdose mortalities while Cluster 3 indicates high risk areas for drug overdose moralities
+
+# Project 2: Colorado Food Deserts and Obesity
+* Research questions: Which Colorado census tracts are most susceptible to being in a food desert?  How do these food desert locations compare to obesity rates?
+* Data: US Census Bureau - census tract shapefile, American Community Survey - poverty 2016, ESRI - grocery store locations 2014, Colorado Department of Public Health and Environment - obesity rates 2019
+* Methodology: find most at-risk areas (greater than 25% poverty), create one mile buffer around grocery stores, erase one mile buffer from at risk areas, food deserts are identfied, spatial join obesity data, compare greater than 30% obesity to potential food desert tracts
+* Results: Food deserts found most commonly in suburban and rural areas, strong realtionship does exist between high obesity rates and food deserts
+
+# Project 3: Hot and Cold Spot Analysis of 911 calls in Portland, OR
