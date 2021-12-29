@@ -4,9 +4,7 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 
 # Project 1: The Opioid Epidemic in the American Southwest
 
-![](https://user-images.githubusercontent.com/96799772/147707246-0d4d37e7-14c0-4ec9-9c79-8d20c045b259.png)
-
-![](https://user-images.githubusercontent.com/96799772/147708056-3f76574a-a816-4e90-9ddf-356d110d89f6.PNG)
+![](https://user-images.githubusercontent.com/96799772/147707246-0d4d37e7-14c0-4ec9-9c79-8d20c045b259.png) ![](https://user-images.githubusercontent.com/96799772/147708056-3f76574a-a816-4e90-9ddf-356d110d89f6.PNG)
 
 * A multiple regression and clustering analysis of drug overdose mortalities as compared to demographic variables
 * Demographic varaibles include: percentage of people below poverty level, median household income, percentage with a bachelor’s degree or higher, percentage with a disability under 65 years, and unemployment rate
