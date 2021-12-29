@@ -22,10 +22,6 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
   <img src="https://user-images.githubusercontent.com/96799772/147707258-e7b21bc6-fa9d-4623-8049-55cb46ef29a5.png"/>
 </p>
 
-![](https://user-images.githubusercontent.com/96799772/147707251-d3bb9e75-d379-49f8-91e5-9cc1ff9fe87a.png)
-
-![](https://user-images.githubusercontent.com/96799772/147707258-e7b21bc6-fa9d-4623-8049-55cb46ef29a5.png)
-
 * Research questions: Which Colorado census tracts are most susceptible to being in a food desert?  How do these food desert locations compare to obesity rates?
 * Data: US Census Bureau - census tract shapefile, American Community Survey - poverty 2016, ESRI - grocery store locations 2014, Colorado Department of Public Health and Environment - obesity rates 2019
 * Methodology: find most at-risk areas (greater than 25% poverty), create one mile buffer around grocery stores, erase one mile buffer from at risk areas, food deserts are identfied, spatial join obesity data, compare greater than 30% obesity to potential food desert tracts
