@@ -1,6 +1,7 @@
 # sashaGIS
 # Sasha Kaplan's Portfolio
-Passionate about GIS, cartography, and data analytics.  These examples were complied during my studies at California State University, Long Beach.
+Passionate about GIS, cartography, and data analytics.  
+Examples were compiled during my studies at California State University, Long Beach.
 
 # Project 1: The Opioid Epidemic in the American Southwest
 
@@ -14,9 +15,9 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * Demographic varaibles include: percentage of people below poverty level, median household income, percentage with a bachelor’s degree or higher, percentage with a disability under 65 years, and unemployment rate
 * States included in the analysis: Arizona, Colorado, Nevada, Utah, and New Mexico by census tracts
 * Simple linear regressions and multiple regressions measured at the alpha of 0.01
-* Three cluster groups identified: Cluster 1 and Cluster 2 define low risk areas for drug overdose mortalities while Cluster 3 indicates high risk areas for drug overdose moralities
+* Three cluster groups identified: Cluster 1 and Cluster 2 define low risk areas for drug overdose mortalities while Cluster 3 indicates high risk areas for drug overdose mortalities
 
-# Project 2: Colorado Food Deserts and Obesity
+# Project 2: Colorado Food Deserts Linked to Obesity
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96799772/147707251-d3bb9e75-d379-49f8-91e5-9cc1ff9fe87a.png"/>
@@ -31,17 +32,17 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * Methodology: find most at-risk areas (greater than 25% poverty), create one mile buffer around grocery stores, erase one mile buffer from at risk areas, food deserts are identfied, spatial join obesity data, compare greater than 30% obesity to potential food desert tracts
 * Results: Food deserts found most commonly in suburban and rural areas, strong realtionship does exist between high obesity rates and food deserts
 
-# Project 3: Tbe Potential Escape Routes of Bubbles the Hippo
+# Project 3: An Analysis of a Hippo's Escape Route Using Weighted Overlay / Weighted Sum Tools
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96799772/147782996-c766b136-39ad-4999-8032-1c34c7723790.png"/>
 </p>
 
-* Bubbles the Hippo escaped from his zoo enclosure in Orange County, CA
-* This project investiagted the potential rotues bubbles took from his enclouse to where he was ultimately found
-* Three potenital escape routes were identifed based on vegetation, roads, and slope of the region
-* The weighted sum and weighted overalay tools were utlized with the variables weighted at different scales
-* Vegetation was predicted as the most influential variable, followed by slope, and then roads
+* Background: Bubbles the Hippo escaped from his zoo enclosure in Orange County, CA.  This project investigated the potential routes Bubbles took from his enclosue to where he was captured.  A cost path analysis was conducted using variables slope percent, vegetation, and distance from roads.
+* Data: DEM to measure slope, vegetation - US Forest Service, roads -  CalTrans
+* Methodology: Create cost layers (rank and classify the three variables), rank the three variables by percent influence using weighted overlay and weighted sum tools, create total cost grid, calculate three pathways, buffer each pathway, combine pathways using union tool
+* Rankings: Vegetation was ranked as the most influential variable, followed by slope, and then roads
+* Result: Three potential pathways identified
 
 # Project 4: Network Analysis in San Francisco
 
@@ -49,9 +50,9 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
   <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
 </p>
 
-* Using the network analysis tool, a transporation route was identfied 
-* The transporation route included four stops in the greater San Francisco area
-* The quickest route was found as a result
+* Research question: What is the fastest route between four stops in the greater San Francisco area? 
+* Data / Methodology: Roads shapefile, the networking was done using the network analysis tool
+* This example was included in my portfolio to demonstrate the role of GIS in trnasporation and planning routes
 
 # Project 5: Comparing Watersheds - Laguna Beach, CA
 
@@ -72,8 +73,6 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 These areas have a higher percentage of households in poverty when percentage of agricultural households is high. 
 * Blue areas - north central districts such as Polonnarawu and Anuradhapura, northwestern districts such as Kurunelga and Puttalam, southern districts such as Galle, Matara, and Hambantota, Sabaragamu disticts such as Ratnapura, and Uva districts such as Monaragala.
 These areas have lower poverty when percentage of agricultural households is low. 
-
-
 
 # Project 7: Point Patterns in Fire Analysis - Density
 
