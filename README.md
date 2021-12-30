@@ -45,11 +45,21 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
   <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
 </p>
 
-* Transporation route identfied for serveral stops using the network analysis toolbar in San Francisco
+* Using the network analysis tool, a transporation route was identfied 
+* The transporation route included four stops in the greater San Francisco area
+* The quickest route was found as a result
 
 # Project 5: Bubbles the Hippo Escape Route
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147782996-c766b136-39ad-4999-8032-1c34c7723790.png"/>
+</p>
 
+* Bubbles the Hippo escaped from his zoo enclosure in Orange County, CA
+* This project investiagted the potential rotues bubbles took from his enclouse to where he was ultimately found
+* Three potenital escape routes were identifed based on vegetation, roads, and slope of the region
+* The weighted sum and weighted overalay tools were utlized with the variables weighted at different scales
+* Vegetation was predicted as the most influential variable, followed by slope, and then roads
 
 
 
