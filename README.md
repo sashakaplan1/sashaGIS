@@ -69,10 +69,9 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147786325-8d1d9dee-20b4-426e-9cfd-5788475ea524.png"/>
 </p>
 
-* Red areas - western districts such as Colombo, Gampaha, some parts of Kalutara, northwestern district such as Kurunegala, Sabraragamu districts such as Patnapura and Kegalle. 
-These areas have a higher percentage of households in poverty when percentage of agricultural households is high. 
-* Blue areas - north central districts such as Polonnarawu and Anuradhapura, northwestern districts such as Kurunelga and Puttalam, southern districts such as Galle, Matara, and Hambantota, Sabaragamu disticts such as Ratnapura, and Uva districts such as Monaragala.
-These areas have lower poverty when percentage of agricultural households is low. 
+* Background:  To investigate the relationship between percetage of people in poverty vs percentage of agricultutral households in Sri Lanka by district
+* Data: Sri Lanka districts / demographic information
+* Results: Red areas have a higher percentage of households in poverty when percentage of agricultural households is high.  While, blue areas have lower poverty when percentage of agricultural households is low. 
 
 # Project 7: Point Patterns in Fire Analysis - Density
 
@@ -80,8 +79,10 @@ These areas have lower poverty when percentage of agricultural households is low
   <img src="https://user-images.githubusercontent.com/96799772/147786409-dd872714-8c7f-43b4-b65a-d28208a4d579.png"/>
 </p>
 
-* Overall, larger values in the search radius produce a more generalized density output, whereas smaller search values produce an output that shows more detail.  
-
+* Research questions: With point data of forest fire locations in Idaho, determine where clusters of forest fires may occur?  How can this influence fire management policy?
+* Data: Forest fire locations in Idaho - 2004
+* Methodology: Using kernel density tool, find the most clear result based on updating search raduis.  In this case, a search radius of 20,000 meters was the most clear output.  The larger seach radius is useful in producing a more generalized density output
+* Results: Understanding where clusters of forest fires are concentrated can help with more efficient distribution of resources to prevent and fight fires
 
 # Project 8: Catham County, GA
 
