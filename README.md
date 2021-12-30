@@ -61,7 +61,7 @@ Examples were compiled during my studies at California State University, Long Be
 
 * Background:  To investigate the relationship between percetage of people in poverty vs percentage of agricultutral households in Sri Lanka by district
 * Data: Sri Lanka districts / demographic information
-* Results: Red areas have a higher percentage of households in poverty when percentage of agricultural households is high.  While, blue areas have lower poverty when percentage of agricultural households is low. 
+* Results: Red areas have a higher percentage of households in poverty when percentage of agricultural households is high.  Blue areas have lower poverty when percentage of agricultural households is low. 
 
 # Project 6: Point Patterns in Fire Analysis - Density
 
