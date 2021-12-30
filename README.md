@@ -31,13 +31,17 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * Methodology: find most at-risk areas (greater than 25% poverty), create one mile buffer around grocery stores, erase one mile buffer from at risk areas, food deserts are identfied, spatial join obesity data, compare greater than 30% obesity to potential food desert tracts
 * Results: Food deserts found most commonly in suburban and rural areas, strong realtionship does exist between high obesity rates and food deserts
 
-# Project 3: Hot and Cold Spot Analysis of 911 calls in Portland, OR
+# Project 3: Tbe Potential Escape Routes of Bubbles the Hippo
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96799772/147711658-d55774f1-f6fd-4e1e-a2a0-adccc2020744.png"/>
+  <img src="https://user-images.githubusercontent.com/96799772/147782996-c766b136-39ad-4999-8032-1c34c7723790.png"/>
 </p>
 
-* Point data of 911 calls,  hot and cold pots identfied in relation to the three emergency response stations
+* Bubbles the Hippo escaped from his zoo enclosure in Orange County, CA
+* This project investiagted the potential rotues bubbles took from his enclouse to where he was ultimately found
+* Three potenital escape routes were identifed based on vegetation, roads, and slope of the region
+* The weighted sum and weighted overalay tools were utlized with the variables weighted at different scales
+* Vegetation was predicted as the most influential variable, followed by slope, and then roads
 
 # Project 4: Network Analysis in San Francisco
 
@@ -49,17 +53,21 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * The transporation route included four stops in the greater San Francisco area
 * The quickest route was found as a result
 
-# Project 5: Bubbles the Hippo Escape Route
+# Project 5: Comparing Watersheds
+
+# Project 6: Sri Lanka Poverty and Agriculture
+
+# Project 7: Point Patterns in Fire Analysis - Density
+
+# Project 8: Catham County, GA
+
+# Project 9: Hot and Cold Spot Analysis of 911 calls in Portland, OR
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96799772/147782996-c766b136-39ad-4999-8032-1c34c7723790.png"/>
+  <img src="https://user-images.githubusercontent.com/96799772/147711658-d55774f1-f6fd-4e1e-a2a0-adccc2020744.png"/>
 </p>
 
-* Bubbles the Hippo escaped from his zoo enclosure in Orange County, CA
-* This project investiagted the potential rotues bubbles took from his enclouse to where he was ultimately found
-* Three potenital escape routes were identifed based on vegetation, roads, and slope of the region
-* The weighted sum and weighted overalay tools were utlized with the variables weighted at different scales
-* Vegetation was predicted as the most influential variable, followed by slope, and then roads
+* Point data of 911 calls,  hot and cold pots identfied in relation to the three emergency response stations
 
 
 
