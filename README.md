@@ -53,7 +53,14 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * The transporation route included four stops in the greater San Francisco area
 * The quickest route was found as a result
 
-# Project 5: Comparing Watersheds
+# Project 5: Comparing Watersheds - Laguna Beach, CA
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147785424-ff23e2f2-c70d-428b-bfc7-d3e3c2399544.png"/>
+</p>
+
+* The purpose of this map is to understand the differences in watersheds based on hand drawn, computer derived, and scale.
+* Scale influences results, specifically looking at the 3m vs 10m sheds.  The 3m and 10m sheds have different scales and resolution sizes of pixels.  The 3m DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail.  This influences results as the computer delineated watersheds rely on scale to create the output.  
 
 # Project 6: Sri Lanka Poverty and Agriculture
 
