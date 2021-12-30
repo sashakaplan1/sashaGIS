@@ -29,13 +29,19 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 
 # Project 3: Hot and Cold Spot Analysis of 911 calls in Portland, OR
 
-![](https://user-images.githubusercontent.com/96799772/147708685-9562b28a-1e67-4eea-ac5e-c22d3c5d8d5a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147711658-d55774f1-f6fd-4e1e-a2a0-adccc2020744.png"/>
+</p>
+
+* Point data of 911 calls,  hot and cold pots identfied in relation to the three emergency response stations
 
 # Project 4: Network Analysis in San Francisco
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
 </p>
+
+* Transporation route identfied for serveral stops using the network analysis toolbar in San Francisco
 
 
 
