@@ -64,9 +64,32 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 
 # Project 6: Sri Lanka Poverty and Agriculture
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147786325-8d1d9dee-20b4-426e-9cfd-5788475ea524.png"/>
+</p>
+
+* Red areas - western districts such as Colombo, Gampaha, some parts of Kalutara, northwestern district such as Kurunegala, Sabraragamu districts such as Patnapura and Kegalle. 
+These areas have a higher percentage of households in poverty when percentage of agricultural households is high. 
+* Blue areas - north central districts such as Polonnarawu and Anuradhapura, northwestern districts such as Kurunelga and Puttalam, southern districts such as Galle, Matara, and Hambantota, Sabaragamu disticts such as Ratnapura, and Uva districts such as Monaragala.
+These areas have lower poverty when percentage of agricultural households is low. 
+
+
+
 # Project 7: Point Patterns in Fire Analysis - Density
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147786409-dd872714-8c7f-43b4-b65a-d28208a4d579.png"/>
+</p>
+
+* Overall, larger values in the search radius produce a more generalized density output, whereas smaller search values produce an output that shows more detail.  
+
+
 # Project 8: Catham County, GA
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147786343-f85a6cf0-c8d0-42ab-8ee9-7eecdf204ef6.jpg"/>
+</p>
+
 
 # Project 9: Hot and Cold Spot Analysis of 911 calls in Portland, OR
 
@@ -74,7 +97,11 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
   <img src="https://user-images.githubusercontent.com/96799772/147711658-d55774f1-f6fd-4e1e-a2a0-adccc2020744.png"/>
 </p>
 
-* Point data of 911 calls,  hot and cold pots identfied in relation to the three emergency response stations
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147786315-d5c613fc-eebd-40d4-973b-6eca8015608b.png"/>
+</p>
 
+
+* Point data of 911 calls,  hot and cold pots identfied in relation to the three emergency response stations
 
 
