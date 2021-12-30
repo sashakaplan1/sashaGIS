@@ -1,7 +1,7 @@
 # sashaGIS
 # Sasha Kaplan's Portfolio
-Passionate about GIS, cartography, and data analytics.  
-Examples were compiled during my studies at California State University, Long Beach.
+Passionate about GIS, cartography, and data analytics  
+Examples were compiled during my studies at California State University, Long Beach
 
 # Project 1: The Opioid Epidemic in the American Southwest
 
@@ -44,26 +44,16 @@ Examples were compiled during my studies at California State University, Long Be
 * Rankings: Vegetation was ranked as the most influential variable, followed by slope, and then roads
 * Result: Three potential pathways identified
 
-# Project 4: Network Analysis in San Francisco
+# Project 4: Hot and Cold Spot Analysis of 911 calls in Portland, OR
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
+  <img src="https://user-images.githubusercontent.com/96799772/147711658-d55774f1-f6fd-4e1e-a2a0-adccc2020744.png"/>
 </p>
 
-* Research question: What is the fastest route between four stops in the greater San Francisco area? 
-* Data / Methodology: Roads shapefile, the networking was done using the network analysis tool
-* This example was included in my portfolio to demonstrate the role of GIS in trnasporation and planning routes
+* Research question: Where are hot and cold spots located for 911 calls in Portalnd, OR?  What is the the spatial relationship between 911 call locations and emergency response stations?
+* Results: Hot and cold spot locations were identifed.  One eemergency response station located in a cold spot would be better suited to be located in another area.  Additionally, the hot spot area could benefit from another emergency response station.
 
-# Project 5: Comparing Watersheds - Laguna Beach, CA
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/96799772/147785424-ff23e2f2-c70d-428b-bfc7-d3e3c2399544.png"/>
-</p>
-
-* The purpose of this map is to understand the differences in watersheds based on hand drawn, computer derived, and scale.
-* Scale influences results, specifically looking at the 3m vs 10m sheds.  The 3m and 10m sheds have different scales and resolution sizes of pixels.  The 3m DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail.  This influences results as the computer delineated watersheds rely on scale to create the output.  
-
-# Project 6: Sri Lanka Poverty and Agriculture
+# Project 5: Sri Lanka Poverty and Agriculture
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96799772/147786325-8d1d9dee-20b4-426e-9cfd-5788475ea524.png"/>
@@ -73,7 +63,7 @@ Examples were compiled during my studies at California State University, Long Be
 * Data: Sri Lanka districts / demographic information
 * Results: Red areas have a higher percentage of households in poverty when percentage of agricultural households is high.  While, blue areas have lower poverty when percentage of agricultural households is low. 
 
-# Project 7: Point Patterns in Fire Analysis - Density
+# Project 6: Point Patterns in Fire Analysis - Density
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96799772/147786409-dd872714-8c7f-43b4-b65a-d28208a4d579.png"/>
@@ -90,18 +80,27 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147786343-f85a6cf0-c8d0-42ab-8ee9-7eecdf204ef6.jpg"/>
 </p>
 
+* Reearch question: 
 
-# Project 9: Hot and Cold Spot Analysis of 911 calls in Portland, OR
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/96799772/147711658-d55774f1-f6fd-4e1e-a2a0-adccc2020744.png"/>
-</p>
+# Project 5: Comparing Watersheds - Laguna Beach, CA
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/96799772/147786315-d5c613fc-eebd-40d4-973b-6eca8015608b.png"/>
+  <img src="https://user-images.githubusercontent.com/96799772/147785424-ff23e2f2-c70d-428b-bfc7-d3e3c2399544.png"/>
 </p>
 
+* The purpose of this map is to understand the differences in watersheds based on hand drawn, computer derived, and scale.
+* Scale influences results, specifically looking at the 3m vs 10m sheds.  The 3m and 10m sheds have different scales and resolution sizes of pixels.  The 3m DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail.  This influences results as the computer delineated watersheds rely on scale to create the output.  
 
-* Point data of 911 calls,  hot and cold pots identfied in relation to the three emergency response stations
+
+# Project 4: Network Analysis in San Francisco
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
+</p>
+
+* Research question: What is the fastest route between four stops in the greater San Francisco area? 
+* Data / Methodology: Roads shapefile, the networking was done using the network analysis tool
+* This example was included in my portfolio to demonstrate the role of GIS in trnasporation and planning routes
+
 
 
