@@ -51,7 +51,7 @@ Examples were compiled during my studies at California State University, Long Be
 </p>
 
 * Research question: Where are hot and cold spots located for 911 calls in Portalnd, OR?  What is the the spatial relationship between 911 call locations and emergency response stations?
-* Results: Hot and cold spot locations were identifed.  One eemergency response station located in a cold spot would be better suited to be located in another area.  Additionally, the hot spot area could benefit from another emergency response station.
+* Results: Hot and cold spot locations were identifed.  One emergency response station located in a cold spot would be better suited to another area.  Additionally, the hot spot area could benefit from another emergency response station.
 
 # Project 5: Sri Lanka Poverty and Agriculture
 
@@ -59,7 +59,7 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147786325-8d1d9dee-20b4-426e-9cfd-5788475ea524.png"/>
 </p>
 
-* Background:  To investigate the relationship between percetage of people in poverty vs percentage of agricultutral households in Sri Lanka by district
+* Background:  To investigate the relationship between percetage of people in poverty vs percentage of agricultutral households in Sri Lanka by district.
 * Data: Sri Lanka districts / demographic information
 * Results: Red areas have a higher percentage of households in poverty when percentage of agricultural households is high.  Blue areas have lower poverty when percentage of agricultural households is low. 
 
@@ -71,8 +71,8 @@ Examples were compiled during my studies at California State University, Long Be
 
 * Research questions: With point data of forest fire locations in Idaho, determine where clusters of forest fires may occur?  How can this influence fire management policy?
 * Data: Forest fire locations in Idaho - 2004
-* Methodology: Using kernel density tool, find the most clear result based on updating search raduis.  In this case, a search radius of 20,000 meters was the most clear output.  The larger seach radius is useful in producing a more generalized density output
-* Results: Understanding where clusters of forest fires are concentrated can help with more efficient distribution of resources to prevent and fight fires
+* Methodology: Using the kernel density tool, I found the most clear results based on updating and refining the search raduis.  In this case, a search radius of 20,000 meters was best visualized.  The larger seach radius is useful in producing a more generalized density output.
+* Results: Understanding where clusters of forest fires are concentrated can help with the more efficient distribution of resources to prevent and fight fires.
 
 # Project 8: Catham County, GA
 
@@ -80,7 +80,9 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147786343-f85a6cf0-c8d0-42ab-8ee9-7eecdf204ef6.jpg"/>
 </p>
 
-* Reearch question: 
+* Reearch question: How is poverty spatially related in Catham County, Georgia by census tracts?
+* Data: American Community Survey - 2016, Census boundaries
+* Results: Based on the map, there are higher concentrations of poverty in certain areas, in this case the eastern tracts of Catham County.  It is useful to understand where high and low poverty areas may be concentrated to understand a plethora of community characteristics.
 
 # Project 5: Comparing Watersheds - Laguna Beach, CA
 
@@ -88,8 +90,7 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147785424-ff23e2f2-c70d-428b-bfc7-d3e3c2399544.png"/>
 </p>
 
-* The purpose of this map is to understand the differences in watersheds based on hand drawn, computer derived, and scale.
-* Scale influences results, specifically looking at the 3m vs 10m sheds.  The 3m and 10m sheds have different scales and resolution sizes of pixels.  The 3m DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail.  This influences results as the computer delineated watersheds rely on scale to create the output.  
+* The purpose of this map is to understand the differences in watersheds based on one hand drawn watershed and two computer derived watersheds.  The 3 meter and 10 meter computer derived watersheds emphasize how scale has an effect on the output.  The 3 meter DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail, while a 10 meter DEM refers to more gernalized areas.  The computer delineated watersheds rely on scale, thebby changing the maps visualization.  
 
 
 # Project 4: Network Analysis in San Francisco
@@ -98,9 +99,7 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147711093-6eaae2f3-f674-4469-bcb1-58d970fb9ad3.png"/>
 </p>
 
-* Research question: What is the fastest route between four stops in the greater San Francisco area? 
-* Data / Methodology: Roads shapefile, the networking was done using the network analysis tool
-* This example was included in my portfolio to demonstrate the role of GIS in trnasporation and planning routes
+* What is the fastest route between four stops in the greater San Francisco area?  The route and stops were created using the network analysis tools.  This example is included in my portfolio to demonstrate the role of GIS in trnasporation and planning routes.
 
 
 
