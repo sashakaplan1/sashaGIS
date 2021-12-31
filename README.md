@@ -90,7 +90,7 @@ Examples were compiled during my studies at California State University, Long Be
   <img src="https://user-images.githubusercontent.com/96799772/147785424-ff23e2f2-c70d-428b-bfc7-d3e3c2399544.png"/>
 </p>
 
-* The purpose of this map is to understand the differences in watersheds based on one hand drawn watershed and two computer derived watersheds.  The 3 meter and 10 meter computer derived watersheds emphasize how scale has an effect on the output.  The 3 meter DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail, while a 10 meter DEM refers to more gernalized areas.  The computer delineated watersheds rely on scale, thebby changing the maps visualization.  
+* The purpose of this map is to understand the differences in watersheds based on one hand drawn watershed and two computer derived watersheds.  The 3 meter and 10 meter computer derived watersheds emphasize how scale has an effect on the output.  The 3 meter DEM has a smaller cell size and a smaller resolution and therefore refers to areas that are defined with more detail, while a 10 meter DEM refers to more gernalized areas.  The computer delineated watersheds rely on scale, thereby effecting the watersheds location and position. 
 
 
 # Project 4: Network Analysis in San Francisco
